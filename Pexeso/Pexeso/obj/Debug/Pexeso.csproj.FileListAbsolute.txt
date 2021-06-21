@@ -1,0 +1,13 @@
+C:\Users\petr1\OneDrive\Plocha\Pexeso\Pexeso\obj\Debug\Pexeso.csprojResolveAssemblyReference.cache
+C:\Users\petr1\OneDrive\Plocha\Pexeso\Pexeso\bin\Debug\Pexeso.exe.config
+C:\Users\petr1\OneDrive\Plocha\Pexeso\Pexeso\bin\Debug\Pexeso.exe
+C:\Users\petr1\OneDrive\Plocha\Pexeso\Pexeso\bin\Debug\Pexeso.pdb
+C:\Users\petr1\OneDrive\Plocha\Pexeso\Pexeso\obj\Debug\Pexeso.exe
+C:\Users\petr1\OneDrive\Plocha\Pexeso\Pexeso\obj\Debug\Pexeso.pdb
+C:\Users\petr1\Desktop\Škola\Prog\Pexeso\Pexeso\bin\Debug\Pexeso.exe.config
+C:\Users\petr1\Desktop\Škola\Prog\Pexeso\Pexeso\bin\Debug\Pexeso.exe
+C:\Users\petr1\Desktop\Škola\Prog\Pexeso\Pexeso\bin\Debug\Pexeso.pdb
+C:\Users\petr1\Desktop\Škola\Prog\Pexeso\Pexeso\obj\Debug\Pexeso.csprojAssemblyReference.cache
+C:\Users\petr1\Desktop\Škola\Prog\Pexeso\Pexeso\obj\Debug\Pexeso.csproj.CoreCompileInputs.cache
+C:\Users\petr1\Desktop\Škola\Prog\Pexeso\Pexeso\obj\Debug\Pexeso.exe
+C:\Users\petr1\Desktop\Škola\Prog\Pexeso\Pexeso\obj\Debug\Pexeso.pdb
